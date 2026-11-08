@@ -1,10 +1,8 @@
-# TRHiSD：信赖域高阶鞍点动力学与数值复现
+# TRHiSD：信赖域高阶鞍点动力学
 
 本项目包含论文 **Trust-region high-index saddle dynamics for ill-conditioned saddle-point computation** 的算法实现、复现实验和收敛曲线绘图代码，研究病态问题中的高阶鞍点计算。
 
 主要方法包括信赖域 Cauchy 步（TRHiSD-CP）、Newton 步、截断共轭梯度步（CP/TCG），以及用于比较的 HiSD、HiSD-BB 和 A-HiSD。
-
-> 本仓库保存的是独立复现实验及历史对照数据。部分结果与论文存在差异，不能将所有输出都视为论文原始结果。尤其是当前组合图的左图来自统一初值后的新实验，右图来自提供的历史 FIG 数据。
 
 ## 1. 环境
 
