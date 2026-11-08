@@ -1,0 +1,6 @@
+             gradient: 2.4869e-09
+              hessian: 4.3022e-10
+    energy_difference: 1.6907e-14
+        orthogonality: 4.0026e-15
+
+eigenspace: iter=2 energy=-2.96430267238 residual=2.13448122173e-12 converged=0
