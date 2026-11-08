@@ -1,0 +1,4 @@
+d=2 CP: iterations=9 converged=1 error=3.26307108728e-09
+d=2 BB: iterations=39 converged=1 error=2.02521390145e-07
+d=2 HiSD: iterations=291 converged=1 error=2.127917896e-07
+d=2 AHiSD: iterations=196 converged=1 error=2.09229952269e-07

@@ -1,0 +1,11 @@
+CP iteration 1000 residual 0.03337
+CP iteration 2000 residual 0.001971
+CP iteration 3000 residual 0.0001163
+TRHiSD-CP: estimated order = 1.000000, reference = 1, local samples = 2863
+TRHiSD-N: estimated order = 1.953574, reference = 2, local samples = 3
+    method    iterations     residual       error       index    estimated_order    reference_order    local_samples
+    ______    __________    __________    __________    _____    _______________    _______________    _____________
+
+    {'CP'}       3868       9.9741e-06    3.0195e-06      3               1                1               2863     
+    {'N' }         14       2.2447e-11    1.3537e-12      3          1.9536                2                  3     
+
